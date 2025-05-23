@@ -1,0 +1,20 @@
+{
+  "url": "http://shop.qatl.ru",
+  "product": {
+    "link": "http://shop.qatl.ru/product/casio-mrp-700-1avef",
+    "quantity": "1",
+    "price": 300
+  },
+  "valid_credentials": {
+    "login": "xerogi2k",
+    "password": "123456"
+  },
+  "existing_user_data": {
+    "login": "danilaynv",
+    "password": "123456",
+    "name": "Сергей",
+    "email": "xerogi2003@gmail.com",
+    "address": "test",
+    "note": "test note"
+  }
+}

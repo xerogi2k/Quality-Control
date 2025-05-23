@@ -1,0 +1,15 @@
+{
+  "url": "http://shop.qatl.ru",
+  "valid_credentials": {
+    "login": "xerogi2k",
+    "password": "123456"
+  },
+  "invalid_credentials": {
+    "login": "invalid_user",
+    "password": "invalid_pass"
+  },
+  "empty_credentials": {
+    "login": "",
+    "password": ""
+  }
+}
