@@ -1,0 +1,13 @@
+{
+  "url": "http://shop.qatl.ru",
+  "first_product": {
+    "link": "http://shop.qatl.ru/product/casio-mrp-700-1avef",
+    "quantity": "1",
+    "price": 300
+  },
+  "second_product": {
+    "link": "http://shop.qatl.ru/product/casio-ga-1000-1aer-3",
+    "quantity": "2",
+    "price": 400
+  }
+}
